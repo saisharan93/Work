@@ -1,0 +1,21 @@
+slide, slide-container {
+    display: block;
+    width: 100%;
+}
+
+.red {
+    color: red;
+}
+
+.red input{
+    border: 2px solid red;
+}
+
+.green{
+    font-weight: bolder;
+    color: green;
+}
+
+.ngHide{
+    display:none;
+}
